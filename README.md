@@ -2,4 +2,4 @@
 
 Changes:
 - Body font size
-- inline code --> color text
+- inline code --> text color is red 
